@@ -1,5 +1,6 @@
 ### Hi there 👋
-I'm Khushi
+<h1 align="center">Hi 👋, I'm Khushi Singh </h1>
+<h3 align="center">A Passionate School Student from India</h3>
 <!--
 **khushk01/khushk01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
