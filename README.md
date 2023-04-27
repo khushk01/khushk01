@@ -1,3 +1,4 @@
+
 <h1 align="center"> Hello Everyone </h1>
 <h1 align="center"> I'm Khushi </h1>
 
@@ -7,6 +8,10 @@
 - 🌱 I’m currently learning front end development
 - 📫 How to reach me: Just you have to contribution in my repo or mail me.
 
+
+### Hi there 👋
+<h1 align="center">Hi 👋, I'm Khushi Singh </h1>
+<h3 align="center">A Passionate School Student from India</h3>
 
 <!--
 
