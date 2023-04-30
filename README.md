@@ -2,7 +2,8 @@
 <h1 align="center"> Heyy there!! </h1>
 <h1 align="center"> I'm Khushi </h1>
 
-https://i.gifer.com/Fg1M.gif
+<iframe src="https://gifer.com/embed/Fg1M" width=480 height=270.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+
 
 - 🔭 I’m currently working on some CSS Projects
 - 🌱 I’m currently learning front end development
