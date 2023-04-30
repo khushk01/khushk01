@@ -2,7 +2,7 @@
 <h1 align="center"> Heyy there!! </h1>
 <h1 align="center"> I'm Khushi </h1>
 
-![girl buti](https://user-images.githubusercontent.com/115187902/234917971-26cef5ca-978c-46ab-b16e-db5d7d2b2f66.gif)
+https://i.gifer.com/Fg1M.gif
 
 - 🔭 I’m currently working on some CSS Projects
 - 🌱 I’m currently learning front end development
