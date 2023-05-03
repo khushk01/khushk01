@@ -1,32 +1,28 @@
 
-<h1 align="center"> Heyy there!! </h1>
-<h1 align="center"> I'm Khushi </h1>
+<h1 align="center">Hi 👋, I'm Khushi singh</h1>
+<h3 align="center">A passionate fronted developer from india</h3>
+<img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" alt="">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushk01&label=Profile%20views&color=0e75b6&style=flat" alt="khushk01" /> </p>
 
-![girl buti](https://user-images.githubusercontent.com/115187902/234917971-26cef5ca-978c-46ab-b16e-db5d7d2b2f66.gif)
+- 🔭 I’m currently working on **HTML,CSS,C++ & Java script**
 
+- 🌱 I’m currently learning **CSS**
 
+- 📫 How to reach me **khushisinghcs01@gmail.com**
 
-- 🔭 I’m currently working on some CSS Projects
-- 🌱 I’m currently learning front end development
-- 📫 How to reach me: Just you have to contribution in my repo or mail me.
+- ⚡ Fun fact **I'm artist**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@khushisinghcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@khushisinghcs" height="30" width="40" /></a>
+</p>
 
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Khushi Singh </h1>
-<h3 align="center">A Passionate School Student from India</h3>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
-<!--
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushk01&show_icons=true&locale=en&layout=compact" alt="khushk01" /></p>
 
-**khushk01/khushk01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushk01&show_icons=true&locale=en" alt="khushk01" /></p>
 
-Here are some ideas to get you started:
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushk01&" alt="khushk01" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
