@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Khushi singh</h1>
 <h3 align="center">A passionate fronted developer from india</h3>
-<img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" alt="">
+<p align="center"> <img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" alt="khushi"> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushk01&label=Profile%20views&color=0e75b6&style=flat" alt="khushk01" /> </p>
 
 - 🔭 I’m currently working on **HTML,CSS,C++ & Java script**
